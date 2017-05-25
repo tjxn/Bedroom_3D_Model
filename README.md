@@ -1,1 +1,3 @@
-# Bedroom_3D_Model
+# 3D Model of Bedroom
+
+Possible designs and colours for bedroom renovation.
